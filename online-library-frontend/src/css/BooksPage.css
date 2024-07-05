@@ -1,0 +1,15 @@
+.booksPage {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.booksList {
+    border: 3px solid #0047ab;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}

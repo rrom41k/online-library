@@ -1,0 +1,25 @@
+{
+  "short_name": "Online library",
+  "name": "Online library Kuban State Technological University",
+  "icons": [
+    {
+      "src": "Logo KubStu.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg"
+    },
+    {
+      "src": "Logo KubStu.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Logo KubStu.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

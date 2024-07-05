@@ -1,0 +1,33 @@
+.authorPageBody {
+  margin-top: 25px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 20px;
+}
+
+.authorPageBodyImgDescription img {
+  height: 400px;
+  width: 300px;
+  float: left;
+  margin: 20px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom: 2px;
+  border: 10px ridge gold;
+}
+
+.authorPageBodyTitle {
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 500;
+  color: #0047ab;
+}
+
+.authorPageBodyImgDescription {
+  margin: 10px;
+  min-height: 450px;
+  font-size: large;
+  font-style: italic;
+  text-align: justify;
+}

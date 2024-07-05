@@ -1,0 +1,78 @@
+header {
+    background-color: #0047ab;
+}
+
+a {
+    all: unset; /* Все стили элемента сбрасываются в ноль. */
+    cursor: pointer;
+}
+
+nav {
+    display: flex;
+}
+
+.container { 
+    height: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 100px;
+    display: flex;
+    font-family: 'Lozung Caps';
+    font-size: 40px;
+    color: white;
+    align-items: center;
+}
+
+.logo_kubstu {
+    display: flex;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.logo_kubstu a {
+    display: flex;
+    align-items: center;
+}
+
+.logo_kubstu img {
+    height: 90px;
+    width: 90px;
+}
+
+.logo_text {
+    height: 100%;
+    width: 360px;
+    align-items: center;
+    display: flex;
+}
+
+.menu_items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 0px;
+}
+
+.menu_items li {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+
+.menu_item {
+    height: 100px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-left: solid white 1px;
+    border-right: solid white 1px;
+}

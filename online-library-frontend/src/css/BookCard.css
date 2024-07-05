@@ -1,0 +1,33 @@
+.bookCard {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 160px;
+}
+
+.bookCardImage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.bookCardImage img {
+  height: 250px;
+  width: 165px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.bookCard p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.bookCardAuthor {
+  color: #f78028;
+}
+
+.bookCardTitle {
+  color: #0047ab;
+}

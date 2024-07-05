@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Coda Caption';
+  src: url('../fonts/CodaCaption-ExtraBold.ttf') format('ttf');
+  /* Дополнительные форматы шрифта, если необходимо */
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, 'Coda Caption';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

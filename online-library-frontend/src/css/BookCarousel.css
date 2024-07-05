@@ -1,0 +1,22 @@
+.bookCarousel {
+    margin-top: 35px;
+    width: 994px;
+    border: 3px solid #0047ab;
+    border-radius: 10px;
+}
+
+.bookCarouselTitle {
+    margin-left: 20px;
+    font-size: 30px;
+    color: #0047ab;
+    font-style: italic;
+    font-weight: 800;
+}
+
+.bookCarouselCards {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    /* width: 2000px; */
+    justify-content: space-around;
+}
